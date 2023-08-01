@@ -4,9 +4,7 @@ ProjectSettings
 Temp
 UserSettings
 Assembly-CSharp.csproj
-Packages/packages-lock.json
 obj
-
 .idea
 AimingRig.csproj
 Assembly-CSharp.csproj
